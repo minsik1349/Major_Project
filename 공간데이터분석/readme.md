@@ -1,4 +1,4 @@
-## 공간 데이터 분석 에세이(홍대/상수 지역의 생존 전략)
+## 공간 데이터 분석 에세이(홍대/상수 지역의 생존 전략): [분석 에세이 링크](https://github.com/minsik1349/Major_Project/blob/main/%EA%B3%B5%EA%B0%84%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D/%ED%99%8D%EB%8C%80%EC%83%81%EC%88%98%20%EC%A7%80%EC%97%AD%EC%9D%98%20%EC%83%9D%EC%A1%B4%20%EC%A0%84%EB%9E%B5(%EA%B3%B5%EA%B0%84%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D).pdf)
 
 ### 0. 데이터 설명
 |데이터명|목적|설명|
