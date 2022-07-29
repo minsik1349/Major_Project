@@ -16,13 +16,22 @@
 ### 3. 프로젝트 과정(세부사항)
 - 목표: 렌터카 리뷰를 통해, 긍/부정적인 인식을 미치는 키워드 파악 후 발전 방향 제언 
 
-  #### Part1. 데이터 수집
-   - JEJUPASS 렌트카 사이트([링크](https://rentcar.jejupass.com/web?gclid=Cj0KCQjwio6XBhCMARIsAC0u9aE1irHNEONOUm4oyynbvCEvJmlj4FQ5W3PJnAVBbPfHzPHYppUFErwaAov1EALw_wcB))에서 리뷰가 가장 많은 상위 20개 
-   - 
+  #### Part1. 데이터 수집  
+   - JEJUPASS 렌트카 사이트([링크](https://rentcar.jejupass.com/web?gclid=Cj0KCQjwio6XBhCMARIsAC0u9aE1irHNEONOUm4oyynbvCEvJmlj4FQ5W3PJnAVBbPfHzPHYppUFErwaAov1EALw_wcB))에서 리뷰가 가장 많은 상위 20개 회사를 선별하여 리뷰 데이터를 수집 진행  
+   - 크롤링(Modele: Selenium)을 통해서 진행했으며, 총 4개의 Feature(연도, 회사명, 리뷰 텍스트, 리뷰 점수[4개 분야: 청결도, 친절도, 편의성, 총점])  
+   - 약 3만 건의 데이터 수집(excel 저장)  
  
- [part2. 
+  #### Part2. 데이터 전처리 및 EDA  
+   [0] 각 리뷰 점수별 분포를 시각화(Histogram) 확인  
+   [1] 감성 분석을 진행하기 위해 Label 정의   
+     => 긍정: 전체 리뷰 점수가 4 이상인 리뷰 / 부정: 각 분야의 리뷰(청결, 친절, 편의)과 2점이하이거나 총점이 평균 2.7 이하인 경우  
+   - 긍정과 부정 데이터의 개수의 Class 불균형(긍정 대비 부정 데이터 비율: 18%)이 있어 Under sampling 진행(긍정 대비 부정 데이터 비율:40%)
+   - 긍정 리뷰: 6,967건 / 부정 리뷰: 4,645건
+   [2]
 
-
+  #### Part3. 데이터 전처리
+   -  
+   - 크롤링(Modele: Selenium)을 통해서
 
 
 ### 4. Review  
