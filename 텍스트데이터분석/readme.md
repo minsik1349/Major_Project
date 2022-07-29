@@ -17,7 +17,7 @@
 - 목표: 렌터카 리뷰를 통해, 긍/부정적인 인식을 미치는 키워드 파악 후 발전 방향 제언 
 
   #### Part1. 데이터 수집
-   - JEJUPASS 렌트카 사이트(https://rentcar.jejupass.com/web?gclid=Cj0KCQjwio6XBhCMARIsAC0u9aE1irHNEONOUm4oyynbvCEvJmlj4FQ5W3PJnAVBbPfHzPHYppUFErwaAov1EALw_wcB)에서 리뷰가 가장 많은 상위 20개 
+   - JEJUPASS 렌트카 사이트([링크](https://rentcar.jejupass.com/web?gclid=Cj0KCQjwio6XBhCMARIsAC0u9aE1irHNEONOUm4oyynbvCEvJmlj4FQ5W3PJnAVBbPfHzPHYppUFErwaAov1EALw_wcB))에서 리뷰가 가장 많은 상위 20개 
    - 
  
  [part2. 
