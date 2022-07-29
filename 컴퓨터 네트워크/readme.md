@@ -16,7 +16,12 @@
 - 팀 프로젝트로 진행 
 
 ### 3. 프로젝트 과정(세부사항)
+  - 목표:
   
+  #### Server 
+  가. Reponse
+  - HTTP 생성함수를 3단계(Start, header, reponse)로 나눠서 정의한 후 Response 진행
+  - HTTP 1.1 Version 구조로 정의
 
 
 ### 4. 내 역할
@@ -27,5 +32,5 @@
 ### 5. Review  
 - 
 
-### 6. [추가 과제]()
+### 6. [추가 과제](https://github.com/minsik1349/Major_Project/blob/main/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/WireShark%20%ED%86%B5%EC%8B%A0%EB%B6%84%EC%84%9D.pdf)
 -
